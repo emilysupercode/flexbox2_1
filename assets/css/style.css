@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body section {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 3vh 0 3vh 0;
+    /* padding: 0 0 3vh 0; */
+}
+
+body section img {
+    width: 22vw;
+}
